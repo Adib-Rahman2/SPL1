@@ -1,0 +1,933 @@
+file,source,complexity,best_complexity,inefficiency,reviewed
+java/1.java,corcod,O(n^2),,,yes
+java/3.java,corcod,O(n),,,yes
+java/4.java,corcod,O(n),,,yes
+java/5.java,corcod,O(log n),,,yes
+java/6.java,corcod,O(n),,,yes
+java/7.java,corcod,O(n^2),,,yes
+java/8.java,corcod,O(n),,,yes
+java/9.java,corcod,O(n),,,yes
+java/10.java,corcod,O(n log n),,,yes
+java/15.java,corcod,O(n log n),,,yes
+java/18.java,corcod,O(n^2),,,yes
+java/20.java,corcod,O(n),,,yes
+java/22.java,corcod,O(log n),,,yes
+java/25.java,corcod,O(n^2),,,yes
+java/26.java,corcod,O(n^2),,,yes
+java/28.java,corcod,O(n),,,yes
+java/30.java,corcod,O(n^2),,,yes
+java/31.java,corcod,O(n^2),,,yes
+java/32.java,corcod,O(n),,,yes
+java/33.java,corcod,O(n),,,yes
+java/34.java,corcod,O(n),,,yes
+java/36.java,corcod,O(n),,,yes
+java/37.java,corcod,O(n),,,yes
+java/38.java,corcod,O(n),,,yes
+java/39.java,corcod,O(n),,,yes
+java/41.java,corcod,O(n log n),,,yes
+java/43.java,corcod,O(n),,,yes
+java/44.java,corcod,O(n),,,yes
+java/45.java,corcod,O(n),,,yes
+java/46.java,corcod,O(n log n),,,yes
+java/48.java,corcod,O(n log n),,,yes
+java/49.java,corcod,O(n),,,yes
+java/54.java,corcod,O(n),,,yes
+java/55.java,corcod,O(n),,,yes
+java/56.java,corcod,O(log n),,,yes
+java/57.java,corcod,O(n),,,yes
+java/58.java,corcod,O(n log n),,,yes
+java/59.java,corcod,O(n),,,yes
+java/61.java,corcod,O(n^2),,,yes
+java/62.java,corcod,O(n),,,yes
+java/63.java,corcod,O(1),,,yes
+java/64.java,corcod,O(n),,,yes
+java/65.java,corcod,O(n),,,yes
+java/66.java,corcod,O(n),,,yes
+java/67.java,corcod,O(n),,,yes
+java/68.java,corcod,O(n^2),,,yes
+java/69.java,corcod,O(n),,,yes
+java/70.java,corcod,O(n log n),,,yes
+java/72.java,corcod,O(n^2),,,yes
+java/73.java,corcod,O(n^2),,,yes
+java/74.java,corcod,O(n^2),,,yes
+java/75.java,corcod,O(n^2),,,yes
+java/76.java,corcod,O(n),,,yes
+java/77.java,corcod,O(n),,,yes
+java/78.java,corcod,O(n),,,yes
+java/79.java,corcod,O(n),,,yes
+java/80.java,corcod,O(n),,,yes
+java/81.java,corcod,O(n),,,yes
+java/82.java,corcod,O(n^2),,,yes
+java/83.java,corcod,O(n log n),,,yes
+java/84.java,corcod,O(n^2),,,yes
+java/85.java,corcod,O(n),,,yes
+java/87.java,corcod,O(n log n),,,yes
+java/88.java,corcod,O(n log n),,,yes
+java/89.java,corcod,O(n),,,yes
+java/90.java,corcod,O(n),,,yes
+java/91.java,corcod,O(n),,,yes
+java/92.java,corcod,O(n^2),,,yes
+java/93.java,corcod,O(n log n),,,yes
+java/94.java,corcod,O(n^2),,,yes
+java/95.java,corcod,O(n log n),,,yes
+java/97.java,corcod,O(n),,,yes
+java/98.java,corcod,O(n),,,yes
+java/99.java,corcod,O(n),,,yes
+java/101.java,corcod,O(n),,,yes
+java/102.java,corcod,O(n^2),,,yes
+java/104.java,corcod,O(n^2),,,yes
+java/106.java,corcod,O(n),,,yes
+java/107.java,corcod,O(n^2),,,yes
+java/108.java,corcod,O(n log n),,,yes
+java/109.java,corcod,O(n),,,yes
+java/111.java,corcod,O(log n),,,yes
+java/114.java,corcod,O(n),,,yes
+java/115.java,corcod,O(n^2),,,yes
+java/116.java,corcod,O(n log n),,,yes
+java/117.java,corcod,O(n^2),,,yes
+java/120.java,corcod,O(n^2),,,yes
+java/122.java,corcod,O(n^2),,,yes
+java/125.java,corcod,O(log n),,,yes
+java/127.java,corcod,O(log n),,,yes
+java/128.java,corcod,O(n^2),,,yes
+java/130.java,corcod,O(n),,,yes
+java/133.java,corcod,O(n^2),,,yes
+java/136.java,corcod,O(n log n),,,yes
+java/137.java,corcod,O(n),,,yes
+java/138.java,corcod,O(n log n),,,yes
+java/140.java,corcod,O(n^2),,,yes
+java/143.java,corcod,O(n^2),,,yes
+java/144.java,corcod,O(n^2),,,yes
+java/145.java,corcod,O(n log n),,,yes
+java/147.java,corcod,O(n^2),,,yes
+java/148.java,corcod,O(n^2),,,yes
+java/149.java,corcod,O(n^2),,,yes
+java/160.java,corcod,O(n),,,yes
+java/162.java,corcod,O(n^2),,,yes
+java/171.java,corcod,O(n^2),,,yes
+java/172.java,corcod,O(1),,,yes
+java/174.java,corcod,O(n log n),,,yes
+java/186.java,corcod,O(n^2),,,yes
+java/199.java,corcod,O(n^2),,,yes
+java/217.java,corcod,O(1),,,yes
+java/218.java,corcod,O(log n),,,yes
+java/226.java,corcod,O(n^2),,,yes
+java/227.java,corcod,O(n^2),,,yes
+java/229.java,corcod,O(n^2),,,yes
+java/234.java,corcod,O(n log n),,,yes
+java/237.java,corcod,O(n^2),,,yes
+java/249.java,corcod,O(n^2),,,yes
+java/251.java,corcod,O(n^2),,,yes
+java/252.java,corcod,O(n^2),,,yes
+java/254.java,corcod,O(n^2),,,yes
+java/257.java,corcod,O(n^2),,,yes
+java/258.java,corcod,O(n^2),,,yes
+java/259.java,corcod,O(n),,,yes
+java/262.java,corcod,O(1),,,yes
+java/264.java,corcod,O(n^2),,,yes
+java/268.java,corcod,O(n),,,yes
+java/269.java,corcod,O(n),,,yes
+java/270.java,corcod,O(n),,,yes
+java/271.java,corcod,O(n^2),,,yes
+java/272.java,corcod,O(n),,,yes
+java/273.java,corcod,O(n),,,yes
+java/274.java,corcod,O(n^2),,,yes
+java/275.java,corcod,O(n),,,yes
+java/276.java,corcod,O(n),,,yes
+java/277.java,corcod,O(n),,,yes
+java/278.java,corcod,O(n^2),,,yes
+java/279.java,corcod,O(n),,,yes
+java/280.java,corcod,O(n),,,yes
+java/281.java,corcod,O(n),,,yes
+java/282.java,corcod,O(n),,,yes
+java/283.java,corcod,O(n),,,yes
+java/284.java,corcod,O(n),,,yes
+java/285.java,corcod,O(n^2),,,yes
+java/287.java,corcod,O(n),,,yes
+java/288.java,corcod,O(n^2),,,yes
+java/290.java,corcod,O(n^2),,,yes
+java/291.java,corcod,O(n),,,yes
+java/293.java,corcod,O(n^2),,,yes
+java/294.java,corcod,O(n^2),,,yes
+java/295.java,corcod,O(n^2),,,yes
+java/296.java,corcod,O(n),,,yes
+java/297.java,corcod,O(n),,,yes
+java/298.java,corcod,O(n^2),,,yes
+java/299.java,corcod,O(n),,,yes
+java/300.java,corcod,O(n),,,yes
+java/301.java,corcod,O(n),,,yes
+java/303.java,corcod,O(n^2),,,yes
+java/304.java,corcod,O(n^2),,,yes
+java/305.java,corcod,O(n^2),,,yes
+java/307.java,corcod,O(n^2),,,yes
+java/308.java,corcod,O(n),,,yes
+java/309.java,corcod,O(n),,,yes
+java/311.java,corcod,O(n^2),,,yes
+java/312.java,corcod,O(n),,,yes
+java/314.java,corcod,O(n^2),,,yes
+java/315.java,corcod,O(n log n),,,yes
+java/317.java,corcod,O(n^2),,,yes
+java/318.java,corcod,O(n^2),,,yes
+java/319.java,corcod,O(n^2),,,yes
+java/320.java,corcod,O(n),,,yes
+java/321.java,corcod,O(n),,,yes
+java/322.java,corcod,O(n^2),,,yes
+java/323.java,corcod,O(n^2),,,yes
+java/324.java,corcod,O(n^2),,,yes
+java/325.java,corcod,O(n^2),,,yes
+java/326.java,corcod,O(n log n),,,yes
+java/327.java,corcod,O(n log n),,,yes
+java/328.java,corcod,O(n^2),,,yes
+java/329.java,corcod,O(n),,,yes
+java/331.java,corcod,O(n),,,yes
+java/332.java,corcod,O(n^2),,,yes
+java/333.java,corcod,O(n),,,yes
+java/334.java,corcod,O(n),,,yes
+java/335.java,corcod,O(n^2),,,yes
+java/337.java,corcod,O(n^2),,,yes
+java/339.java,corcod,O(n^2),,,yes
+java/340.java,corcod,O(n^2),,,yes
+java/342.java,corcod,O(n^2),,,yes
+java/344.java,corcod,O(n^2),,,yes
+java/345.java,corcod,O(n),,,yes
+java/346.java,corcod,O(n^2),,,yes
+java/348.java,corcod,O(n^2),,,yes
+java/349.java,corcod,O(n),,,yes
+java/350.java,corcod,O(n),,,yes
+java/351.java,corcod,O(n),,,yes
+java/352.java,corcod,O(n),,,yes
+java/353.java,corcod,O(n),,,yes
+java/354.java,corcod,O(n),,,yes
+java/355.java,corcod,O(n),,,yes
+java/356.java,corcod,O(n),,,yes
+java/357.java,corcod,O(n^2),,,yes
+java/358.java,corcod,O(n),,,yes
+java/360.java,corcod,O(n),,,yes
+java/362.java,corcod,O(n),,,yes
+java/363.java,corcod,O(n^2),,,yes
+java/365.java,corcod,O(n),,,yes
+java/366.java,corcod,O(n^2),,,yes
+java/367.java,corcod,O(n^2),,,yes
+java/368.java,corcod,O(n^2),,,yes
+java/369.java,corcod,O(n^2),,,yes
+java/370.java,corcod,O(n^2),,,yes
+java/371.java,corcod,O(n^2),,,yes
+java/372.java,corcod,O(n^2),,,yes
+java/373.java,corcod,O(n^2),,,yes
+java/374.java,corcod,O(n),,,yes
+java/375.java,corcod,O(n^2),,,yes
+java/376.java,corcod,O(n^2),,,yes
+java/377.java,corcod,O(n),,,yes
+java/378.java,corcod,O(n),,,yes
+java/381.java,corcod,O(n),,,yes
+java/382.java,corcod,O(n),,,yes
+java/383.java,corcod,O(n),,,yes
+java/384.java,corcod,O(n^2),,,yes
+java/385.java,corcod,O(n),,,yes
+java/386.java,corcod,O(n),,,yes
+java/387.java,corcod,O(n^2),,,yes
+java/388.java,corcod,O(n),,,yes
+java/389.java,corcod,O(n),,,yes
+java/390.java,corcod,O(n),,,yes
+java/391.java,corcod,O(n),,,yes
+java/393.java,corcod,O(n),,,yes
+java/394.java,corcod,O(n),,,yes
+java/396.java,corcod,O(n^2),,,yes
+java/398.java,corcod,O(n),,,yes
+java/399.java,corcod,O(n),,,yes
+java/400.java,corcod,O(n),,,yes
+java/401.java,corcod,O(n^2),,,yes
+java/402.java,corcod,O(n^2),,,yes
+java/403.java,corcod,O(n^2),,,yes
+java/404.java,corcod,O(n),,,yes
+java/405.java,corcod,O(n),,,yes
+java/406.java,corcod,O(n),,,yes
+java/407.java,corcod,O(n^2),,,yes
+java/408.java,corcod,O(n),,,yes
+java/409.java,corcod,O(n),,,yes
+java/410.java,corcod,O(n),,,yes
+java/411.java,corcod,O(n),,,yes
+java/412.java,corcod,O(n),,,yes
+java/413.java,corcod,O(n),,,yes
+java/414.java,corcod,O(n),,,yes
+java/415.java,corcod,O(n),,,yes
+java/416.java,corcod,O(n^2),,,yes
+java/417.java,corcod,O(n),,,yes
+java/418.java,corcod,O(n),,,yes
+java/419.java,corcod,O(n),,,yes
+java/420.java,corcod,O(n),,,yes
+java/421.java,corcod,O(n^2),,,yes
+java/422.java,corcod,O(n),,,yes
+java/423.java,corcod,O(n^2),,,yes
+java/424.java,corcod,O(n),,,yes
+java/425.java,corcod,O(n),,,yes
+java/426.java,corcod,O(n),,,yes
+java/428.java,corcod,O(n),,,yes
+java/429.java,corcod,O(n),,,yes
+java/430.java,corcod,O(n),,,yes
+java/431.java,corcod,O(n),,,yes
+java/432.java,corcod,O(n),,,yes
+java/433.java,corcod,O(n),,,yes
+java/434.java,corcod,O(n),,,yes
+java/435.java,corcod,O(n),,,yes
+java/436.java,corcod,O(n),,,yes
+java/437.java,corcod,O(n),,,yes
+java/438.java,corcod,O(n),,,yes
+java/439.java,corcod,O(n),,,yes
+java/440.java,corcod,O(n),,,yes
+java/441.java,corcod,O(n),,,yes
+java/442.java,corcod,O(n),,,yes
+java/443.java,corcod,O(n),,,yes
+java/445.java,corcod,O(n),,,yes
+java/446.java,corcod,O(n),,,yes
+java/447.java,corcod,O(n),,,yes
+java/449.java,corcod,O(n),,,yes
+java/450.java,corcod,O(n log n),,,yes
+java/451.java,corcod,O(n),,,yes
+java/452.java,corcod,O(n),,,yes
+java/453.java,corcod,O(n),,,yes
+java/454.java,corcod,O(n),,,yes
+java/455.java,corcod,O(n),,,yes
+java/456.java,corcod,O(n),,,yes
+java/457.java,corcod,O(n log n),,,yes
+java/458.java,corcod,O(n log n),,,yes
+java/459.java,corcod,O(n log n),,,yes
+java/460.java,corcod,O(n log n),,,yes
+java/461.java,corcod,O(n),,,yes
+java/462.java,corcod,O(n),,,yes
+java/464.java,corcod,O(n log n),,,yes
+java/465.java,corcod,O(n^2),,,yes
+java/466.java,corcod,O(n log n),,,yes
+java/467.java,corcod,O(n^2),,,yes
+java/469.java,corcod,O(n),,,yes
+java/470.java,corcod,O(n),,,yes
+java/471.java,corcod,O(n^2),,,yes
+java/474.java,corcod,O(n log n),,,yes
+java/475.java,corcod,O(n log n),,,yes
+java/476.java,corcod,O(n log n),,,yes
+java/477.java,corcod,O(n log n),,,yes
+java/479.java,corcod,O(n),,,yes
+java/480.java,corcod,O(n log n),,,yes
+java/481.java,corcod,O(n),,,yes
+java/482.java,corcod,O(n log n),,,yes
+java/483.java,corcod,O(n log n),,,yes
+java/484.java,corcod,O(n log n),,,yes
+java/485.java,corcod,O(n log n),,,yes
+java/486.java,corcod,O(n log n),,,yes
+java/488.java,corcod,O(n^2),,,yes
+java/489.java,corcod,O(n^2),,,yes
+java/490.java,corcod,O(n^2),,,yes
+java/491.java,corcod,O(n log n),,,yes
+java/492.java,corcod,O(1),,,yes
+java/493.java,corcod,O(n log n),,,yes
+java/494.java,corcod,O(n),,,yes
+java/496.java,corcod,O(n),,,yes
+java/497.java,corcod,O(n^2),,,yes
+java/498.java,corcod,O(n log n),,,yes
+java/499.java,corcod,O(n log n),,,yes
+java/500.java,corcod,O(n),,,yes
+java/501.java,corcod,O(n log n),,,yes
+java/502.java,corcod,O(n log n),,,yes
+java/503.java,corcod,O(n log n),,,yes
+java/504.java,corcod,O(n log n),,,yes
+java/505.java,corcod,O(n log n),,,yes
+java/506.java,corcod,O(n),,,yes
+java/507.java,corcod,O(n),,,yes
+java/508.java,corcod,O(n),,,yes
+java/509.java,corcod,O(n),,,yes
+java/510.java,corcod,O(n log n),,,yes
+java/512.java,corcod,O(log n),,,yes
+java/513.java,corcod,O(log n),,,yes
+java/515.java,corcod,O(n),,,yes
+java/516.java,corcod,O(log n),,,yes
+java/517.java,corcod,O(n),,,yes
+java/519.java,corcod,O(log n),,,yes
+java/521.java,corcod,O(log n),,,yes
+java/522.java,corcod,O(n^2),,,yes
+java/523.java,corcod,O(n log n),,,yes
+java/524.java,corcod,O(n),,,yes
+java/525.java,corcod,O(n log n),,,yes
+java/526.java,corcod,O(n),,,yes
+java/527.java,corcod,O(log n),,,yes
+java/528.java,corcod,O(n),,,yes
+java/529.java,corcod,O(log n),,,yes
+java/530.java,corcod,O(log n),,,yes
+java/531.java,corcod,O(n),,,yes
+java/532.java,corcod,O(n),,,yes
+java/533.java,corcod,O(n),,,yes
+java/534.java,corcod,O(log n),,,yes
+java/535.java,corcod,O(n),,,yes
+java/536.java,corcod,O(log n),,,yes
+java/537.java,corcod,O(n),,,yes
+java/538.java,corcod,O(log n),,,yes
+java/539.java,corcod,O(log n),,,yes
+java/540.java,corcod,O(log n),,,yes
+java/541.java,corcod,O(n),,,yes
+java/542.java,corcod,O(n),,,yes
+java/543.java,corcod,O(log n),,,yes
+java/544.java,corcod,O(n),,,yes
+java/545.java,corcod,O(n),,,yes
+java/546.java,corcod,O(n log n),,,yes
+java/547.java,corcod,O(n),,,yes
+java/549.java,corcod,O(n),,,yes
+java/550.java,corcod,O(n^2),,,yes
+java/551.java,corcod,O(n),,,yes
+java/552.java,corcod,O(n),,,yes
+java/553.java,corcod,O(n),,,yes
+java/554.java,corcod,O(n),,,yes
+java/555.java,corcod,O(n),,,yes
+java/556.java,corcod,O(n^2),,,yes
+java/557.java,corcod,O(n),,,yes
+java/558.java,corcod,O(n),,,yes
+java/559.java,corcod,O(n),,,yes
+java/560.java,corcod,O(n^2),,,yes
+java/561.java,corcod,O(n log n),,,yes
+java/562.java,corcod,O(n log n),,,yes
+java/563.java,corcod,O(n),,,yes
+java/564.java,corcod,O(n log n),,,yes
+java/565.java,corcod,O(n^2),,,yes
+java/568.java,corcod,O(n),,,yes
+java/569.java,corcod,O(n),,,yes
+java/570.java,corcod,O(n),,,yes
+java/571.java,corcod,O(n),,,yes
+java/572.java,corcod,O(n log n),,,yes
+java/574.java,corcod,O(n),,,yes
+java/575.java,corcod,O(n log n),,,yes
+java/576.java,corcod,O(n^2),,,yes
+java/577.java,corcod,O(n log n),,,yes
+java/578.java,corcod,O(n),,,yes
+java/579.java,corcod,O(n log n),,,yes
+java/580.java,corcod,O(n),,,yes
+java/581.java,corcod,O(n^2),,,yes
+java/582.java,corcod,O(n),,,yes
+java/583.java,corcod,O(n^2),,,yes
+java/584.java,corcod,O(n log n),,,yes
+java/585.java,corcod,O(n^2),,,yes
+java/586.java,corcod,O(n log n),,,yes
+java/587.java,corcod,O(n^2),,,yes
+java/588.java,corcod,O(n),,,yes
+java/589.java,corcod,O(n),,,yes
+java/590.java,corcod,O(n),,,yes
+java/591.java,corcod,O(n),,,yes
+java/592.java,corcod,O(n^2),,,yes
+java/593.java,corcod,O(n),,,yes
+java/594.java,corcod,O(n),,,yes
+java/595.java,corcod,O(n^2),,,yes
+java/596.java,corcod,O(n^2),,,yes
+java/598.java,corcod,O(n^2),,,yes
+java/599.java,corcod,O(n),,,yes
+java/600.java,corcod,O(1),,,yes
+java/601.java,corcod,O(1),,,yes
+java/602.java,corcod,O(1),,,yes
+java/603.java,corcod,O(n),,,yes
+java/604.java,corcod,O(n),,,yes
+java/605.java,corcod,O(n log n),,,yes
+java/606.java,corcod,O(n log n),,,yes
+java/607.java,corcod,O(n log n),,,yes
+java/608.java,corcod,O(n^2),,,yes
+java/609.java,corcod,O(n^2),,,yes
+java/610.java,corcod,O(n log n),,,yes
+java/612.java,corcod,O(n log n),,,yes
+java/613.java,corcod,O(n^2),,,yes
+java/615.java,corcod,O(1),,,yes
+java/616.java,corcod,O(1),,,yes
+java/617.java,corcod,O(n),,,yes
+java/618.java,corcod,O(n),,,yes
+java/619.java,corcod,O(1),,,yes
+java/621.java,corcod,O(n),,,yes
+java/622.java,corcod,O(n),,,yes
+java/623.java,corcod,O(n^2),,,yes
+java/624.java,corcod,O(n^2),,,yes
+java/625.java,corcod,O(n^2),,,yes
+java/626.java,corcod,O(n log n),,,yes
+java/627.java,corcod,O(n log n),,,yes
+java/628.java,corcod,O(n^2),,,yes
+java/629.java,corcod,O(n log n),,,yes
+java/630.java,corcod,O(n^2),,,yes
+java/632.java,corcod,O(n),,,yes
+java/633.java,corcod,O(n),,,yes
+java/634.java,corcod,O(n^2),,,yes
+java/635.java,corcod,O(n^2),,,yes
+java/636.java,corcod,O(n),,,yes
+java/637.java,corcod,O(n),,,yes
+java/638.java,corcod,O(n),,,yes
+java/639.java,corcod,O(n),,,yes
+java/640.java,corcod,O(n),,,yes
+java/641.java,corcod,O(n),,,yes
+java/642.java,corcod,O(n),,,yes
+java/643.java,corcod,O(1),,,yes
+java/644.java,corcod,O(1),,,yes
+java/645.java,corcod,O(1),,,yes
+java/646.java,corcod,O(1),,,yes
+java/647.java,corcod,O(1),,,yes
+java/648.java,corcod,O(1),,,yes
+java/649.java,corcod,O(n log n),,,yes
+java/650.java,corcod,O(n),,,yes
+java/651.java,corcod,O(n log n),,,yes
+java/652.java,corcod,O(n log n),,,yes
+java/653.java,corcod,O(n),,,yes
+java/654.java,corcod,O(n),,,yes
+java/655.java,corcod,O(n^2),,,yes
+java/656.java,corcod,O(n^2),,,yes
+java/657.java,corcod,O(n),,,yes
+java/658.java,corcod,O(n),,,yes
+java/659.java,corcod,O(n),,,yes
+java/660.java,corcod,O(n),,,yes
+java/661.java,corcod,O(n log n),,,yes
+java/662.java,corcod,O(n),,,yes
+java/663.java,corcod,O(n log n),,,yes
+java/664.java,corcod,O(n log n),,,yes
+java/665.java,corcod,O(n),,,yes
+java/666.java,corcod,O(n log n),,,yes
+java/667.java,corcod,O(n),,,yes
+java/668.java,corcod,O(n),,,yes
+java/669.java,corcod,O(n),,,yes
+java/670.java,corcod,O(n),,,yes
+java/671.java,corcod,O(n),,,yes
+java/672.java,corcod,O(n),,,yes
+java/675.java,corcod,O(n),,,yes
+java/676.java,corcod,O(n),,,yes
+java/677.java,corcod,O(n log n),,,yes
+java/679.java,corcod,O(n),,,yes
+java/680.java,corcod,O(n log n),,,yes
+java/681.java,corcod,O(n^2),,,yes
+java/682.java,corcod,O(n log n),,,yes
+java/683.java,corcod,O(n),,,yes
+java/684.java,corcod,O(n log n),,,yes
+java/685.java,corcod,O(n),,,yes
+java/686.java,corcod,O(n^2),,,yes
+java/687.java,corcod,O(n),,,yes
+java/688.java,corcod,O(n^2),,,yes
+java/689.java,corcod,O(n log n),,,yes
+java/690.java,corcod,O(n^2),,,yes
+java/691.java,corcod,O(n log n),,,yes
+java/692.java,corcod,O(n^2),,,yes
+java/693.java,corcod,O(n),,,yes
+java/694.java,corcod,O(n),,,yes
+java/695.java,corcod,O(n),,,yes
+java/696.java,corcod,O(n),,,yes
+java/697.java,corcod,O(n^2),,,yes
+java/698.java,corcod,O(n),,,yes
+java/699.java,corcod,O(n),,,yes
+java/700.java,corcod,O(n^2),,,yes
+java/701.java,corcod,O(n^2),,,yes
+java/703.java,corcod,O(n^2),,,yes
+java/704.java,corcod,O(n),,,yes
+java/705.java,corcod,O(n^2),,,yes
+java/706.java,corcod,O(n^2),,,yes
+java/707.java,corcod,O(n log n),,,yes
+java/708.java,corcod,O(n),,,yes
+java/710.java,corcod,O(n^2),,,yes
+java/712.java,corcod,O(n),,,yes
+java/713.java,corcod,O(n),,,yes
+java/714.java,corcod,O(n),,,yes
+java/715.java,corcod,O(log n),,,yes
+java/717.java,corcod,O(n),,,yes
+java/718.java,corcod,O(1),,,yes
+java/719.java,corcod,O(n),,,yes
+java/720.java,corcod,O(n^2),,,yes
+java/721.java,corcod,O(n),,,yes
+java/727.java,corcod,O(n log n),,,yes
+java/728.java,corcod,O(n),,,yes
+java/729.java,corcod,O(n^2),,,yes
+java/731.java,corcod,O(n^2),,,yes
+java/732.java,corcod,O(n^2),,,yes
+java/733.java,corcod,O(1),,,yes
+java/734.java,corcod,O(n^2),,,yes
+java/735.java,corcod,O(n),,,yes
+java/736.java,corcod,O(n),,,yes
+java/737.java,corcod,O(n log n),,,yes
+java/738.java,corcod,O(n),,,yes
+java/741.java,corcod,O(n^2),,,yes
+java/742.java,corcod,O(n),,,yes
+java/743.java,corcod,O(1),,,yes
+java/744.java,corcod,O(n log n),,,yes
+java/745.java,corcod,O(1),,,yes
+java/746.java,corcod,O(n),,,yes
+java/747.java,corcod,O(n),,,yes
+java/749.java,corcod,O(n log n),,,yes
+java/750.java,corcod,O(n),,,yes
+java/751.java,corcod,O(n log n),,,yes
+java/752.java,corcod,O(n),,,yes
+java/753.java,corcod,O(n),,,yes
+java/754.java,corcod,O(n),,,yes
+java/755.java,corcod,O(n log n),,,yes
+java/756.java,corcod,O(n),,,yes
+java/757.java,corcod,O(1),,,yes
+java/758.java,corcod,O(n),,,yes
+java/759.java,corcod,O(n^2),,,yes
+java/760.java,corcod,O(n log n),,,yes
+java/761.java,corcod,O(n),,,yes
+java/762.java,corcod,O(n^2),,,yes
+java/763.java,corcod,O(n),,,yes
+java/764.java,corcod,O(n^2),,,yes
+java/765.java,corcod,O(n),,,yes
+java/766.java,corcod,O(1),,,yes
+java/767.java,corcod,O(n log n),,,yes
+java/769.java,corcod,O(n^2),,,yes
+java/770.java,corcod,O(n),,,yes
+java/771.java,corcod,O(n),,,yes
+java/772.java,corcod,O(n),,,yes
+java/773.java,corcod,O(n),,,yes
+java/774.java,corcod,O(n),,,yes
+java/775.java,corcod,O(1),,,yes
+java/776.java,corcod,O(n),,,yes
+java/777.java,corcod,O(n),,,yes
+java/780.java,corcod,O(1),,,yes
+java/781.java,corcod,O(1),,,yes
+java/782.java,corcod,O(1),,,yes
+java/783.java,corcod,O(log n),,,yes
+java/784.java,corcod,O(n log n),,,yes
+java/785.java,corcod,O(n),,,yes
+java/786.java,corcod,O(n),,,yes
+java/787.java,corcod,O(n log n),,,yes
+java/788.java,corcod,O(n log n),,,yes
+java/789.java,corcod,O(n),,,yes
+java/790.java,corcod,O(n^2),,,yes
+java/791.java,corcod,O(1),,,yes
+java/792.java,corcod,O(n log n),,,yes
+java/793.java,corcod,O(n),,,yes
+java/794.java,corcod,O(log n),,,yes
+java/795.java,corcod,O(n),,,yes
+java/796.java,corcod,O(n),,,yes
+java/798.java,corcod,O(n),,,yes
+java/799.java,corcod,O(n),,,yes
+java/800.java,corcod,O(n),,,yes
+java/801.java,corcod,O(n),,,yes
+java/802.java,corcod,O(1),,,yes
+java/803.java,corcod,O(n),,,yes
+java/804.java,corcod,O(1),,,yes
+java/805.java,corcod,O(n log n),,,yes
+java/806.java,corcod,O(n),,,yes
+java/807.java,corcod,O(n^2),,,yes
+java/808.java,corcod,O(n log n),,,yes
+java/810.java,corcod,O(n log n),,,yes
+java/811.java,corcod,O(n^2),,,yes
+java/812.java,corcod,O(n log n),,,yes
+java/813.java,corcod,O(1),,,yes
+java/814.java,corcod,O(n),,,yes
+java/815.java,corcod,O(n^2),,,yes
+java/816.java,corcod,O(1),,,yes
+java/818.java,corcod,O(n log n),,,yes
+java/819.java,corcod,O(n log n),,,yes
+java/820.java,corcod,O(n),,,yes
+java/821.java,corcod,O(n^2),,,yes
+java/822.java,corcod,O(n^2),,,yes
+java/823.java,corcod,O(n^2),,,yes
+java/824.java,corcod,O(n),,,yes
+java/825.java,corcod,O(n),,,yes
+java/826.java,corcod,O(n^2),,,yes
+java/827.java,corcod,O(n),,,yes
+java/828.java,corcod,O(n),,,yes
+java/829.java,corcod,O(n),,,yes
+java/830.java,corcod,O(1),,,yes
+java/831.java,corcod,O(n^2),,,yes
+java/832.java,corcod,O(1),,,yes
+java/833.java,corcod,O(n log n),,,yes
+java/835.java,corcod,O(1),,,yes
+java/836.java,corcod,O(n),,,yes
+java/837.java,corcod,O(n),,,yes
+java/838.java,corcod,O(n log n),,,yes
+java/839.java,corcod,O(n^2),,,yes
+java/840.java,corcod,O(n^2),,,yes
+java/841.java,corcod,O(n),,,yes
+java/842.java,corcod,O(1),,,yes
+java/843.java,corcod,O(n^2),,,yes
+java/844.java,corcod,O(n log n),,,yes
+java/845.java,corcod,O(n log n),,,yes
+java/846.java,corcod,O(n),,,yes
+java/847.java,corcod,O(n log n),,,yes
+java/848.java,corcod,O(n),,,yes
+java/850.java,corcod,O(n log n),,,yes
+java/851.java,corcod,O(n),,,yes
+java/852.java,corcod,O(n^2),,,yes
+java/854.java,corcod,O(n),,,yes
+java/855.java,corcod,O(n log n),,,yes
+java/856.java,corcod,O(n),,,yes
+java/857.java,corcod,O(n),,,yes
+java/858.java,corcod,O(1),,,yes
+java/860.java,corcod,O(n),,,yes
+java/861.java,corcod,O(n),,,yes
+java/863.java,corcod,O(n^2),,,yes
+java/864.java,corcod,O(n),,,yes
+java/865.java,corcod,O(n^2),,,yes
+java/866.java,corcod,O(n log n),,,yes
+java/867.java,corcod,O(n),,,yes
+java/868.java,corcod,O(1),,,yes
+java/869.java,corcod,O(n),,,yes
+java/872.java,corcod,O(n log n),,,yes
+java/874.java,corcod,O(n),,,yes
+java/875.java,corcod,O(n),,,yes
+java/877.java,corcod,O(n^2),,,yes
+java/878.java,corcod,O(1),,,yes
+java/879.java,corcod,O(n log n),,,yes
+java/880.java,corcod,O(n),,,yes
+java/881.java,corcod,O(n),,,yes
+java/882.java,corcod,O(n log n),,,yes
+java/883.java,corcod,O(n),,,yes
+java/884.java,corcod,O(n log n),,,yes
+java/886.java,corcod,O(n),,,yes
+java/887.java,corcod,O(n),,,yes
+java/888.java,corcod,O(n log n),,,yes
+java/889.java,corcod,O(1),,,yes
+java/890.java,corcod,O(n),,,yes
+java/892.java,corcod,O(n),,,yes
+java/893.java,corcod,O(n),,,yes
+java/894.java,corcod,O(n^2),,,yes
+java/895.java,corcod,O(n log n),,,yes
+java/896.java,corcod,O(n),,,yes
+java/897.java,corcod,O(n log n),,,yes
+java/898.java,corcod,O(n),,,yes
+java/900.java,corcod,O(n),,,yes
+java/901.java,corcod,O(n log n),,,yes
+java/902.java,corcod,O(n),,,yes
+java/904.java,corcod,O(n log n),,,yes
+java/905.java,corcod,O(n^2),,,yes
+java/906.java,corcod,O(n^2),,,yes
+java/907.java,corcod,O(n log n),,,yes
+java/908.java,corcod,O(n^2),,,yes
+java/909.java,corcod,O(n log n),,,yes
+java/910.java,corcod,O(1),,,yes
+java/911.java,corcod,O(n^2),,,yes
+java/912.java,corcod,O(n log n),,,yes
+java/913.java,corcod,O(n),,,yes
+java/914.java,corcod,O(n log n),,,yes
+java/915.java,corcod,O(n log n),,,yes
+java/916.java,corcod,O(n),,,yes
+java/917.java,corcod,O(n),,,yes
+java/918.java,corcod,O(n),,,yes
+java/919.java,corcod,O(n log n),,,yes
+java/920.java,corcod,O(n log n),,,yes
+java/921.java,corcod,O(n),,,yes
+java/922.java,corcod,O(n^2),,,yes
+java/923.java,corcod,O(1),,,yes
+java/924.java,corcod,O(n log n),,,yes
+java/925.java,corcod,O(1),,,yes
+java/926.java,corcod,O(n),,,yes
+java/927.java,corcod,O(log n),,,yes
+java/928.java,corcod,O(n^2),,,yes
+java/929.java,corcod,O(n),,,yes
+java/930.java,corcod,O(n log n),,,yes
+java/931.java,corcod,O(1),,,yes
+java/933.java,corcod,O(n^2),,,yes
+java/934.java,corcod,O(n log n),,,yes
+java/935.java,corcod,O(n),,,yes
+java/936.java,corcod,O(n log n),,,yes
+java/938.java,corcod,O(n),,,yes
+java/939.java,corcod,O(n),,,yes
+java/940.java,corcod,O(n),,,yes
+java/941.java,corcod,O(n),,,yes
+java/942.java,corcod,O(n),,,yes
+java/943.java,corcod,O(n^2),,,yes
+java/944.java,corcod,O(n),,,yes
+java/945.java,corcod,O(n log n),,,yes
+java/946.java,corcod,O(n),,,yes
+java/947.java,corcod,O(n),,,yes
+java/948.java,corcod,O(n),,,yes
+java/949.java,corcod,O(n^2),,,yes
+java/951.java,corcod,O(n),,,yes
+java/952.java,corcod,O(n),,,yes
+java/953.java,corcod,O(n log n),,,yes
+java/955.java,corcod,O(n log n),,,yes
+java/956.java,corcod,O(n log n),,,yes
+java/957.java,corcod,O(n log n),,,yes
+java/958.java,corcod,O(n log n),,,yes
+java/960.java,corcod,O(n log n),,,yes
+java/961.java,corcod,O(n log n),,,yes
+java/963.java,corcod,O(n),,,yes
+java/964.java,corcod,O(n log n),,,yes
+java/965.java,corcod,O(n),,,yes
+java/966.java,corcod,O(n log n),,,yes
+java/967.java,corcod,O(n log n),,,yes
+java/968.java,corcod,O(n),,,yes
+java/969.java,corcod,O(n),,,yes
+java/970.java,corcod,O(n),,,yes
+java/971.java,corcod,O(n),,,yes
+java/972.java,corcod,O(n),,,yes
+java/973.java,corcod,O(n),,,yes
+java/974.java,corcod,O(n),,,yes
+java/975.java,corcod,O(n log n),,,yes
+java/976.java,corcod,O(n),,,yes
+java/977.java,corcod,O(n),,,yes
+java/978.java,corcod,O(n),,,yes
+java/979.java,corcod,O(n),,,yes
+java/980.java,corcod,O(n log n),,,yes
+java/981.java,corcod,O(n),,,yes
+java/986.java,corcod,O(n^2),,,yes
+java/987.java,corcod,O(n^2),,,yes
+java/988.java,corcod,O(n^2),,,yes
+java/989.java,corcod,O(n^2),,,yes
+java/990.java,corcod,O(n^2),,,yes
+java/991.java,corcod,O(n^2),,,yes
+java/992.java,corcod,O(n^2),,,yes
+java/993.java,corcod,O(n^2),,,yes
+java/994.java,corcod,O(n),,,yes
+java/995.java,corcod,O(1),,,yes
+java/996.java,corcod,O(1),,,yes
+java/997.java,corcod,O(n),,,yes
+java/998.java,corcod,O(n),,,yes
+java/999.java,corcod,O(n),,,yes
+java/1000.java,corcod,O(n),,,yes
+java/1001.java,corcod,O(1),,,yes
+java/1002.java,corcod,O(n),,,yes
+java/1003.java,corcod,O(n),,,yes
+java/1004.java,corcod,O(n),,,yes
+java/1005.java,corcod,O(n),,,yes
+java/1006.java,corcod,O(n),,,yes
+java/1007.java,corcod,O(n),,,yes
+java/1008.java,corcod,O(n),,,yes
+java/1009.java,corcod,O(n),,,yes
+java/1010.java,corcod,O(n),,,yes
+java/1011.java,corcod,O(n),,,yes
+java/1012.java,corcod,O(n),,,yes
+java/1014.java,corcod,O(n^2),,,yes
+java/1015.java,corcod,O(n^2),,,yes
+java/1016.java,corcod,O(n^2),,,yes
+java/1017.java,corcod,O(n^2),,,yes
+java/1018.java,corcod,O(n^2),,,yes
+java/1019.java,corcod,O(n log n),,,yes
+java/1020.java,corcod,O(n log n),,,yes
+java/1021.java,corcod,O(n),,,yes
+java/1022.java,corcod,O(n),,,yes
+java/1023.java,corcod,O(n),,,yes
+java/1024.java,corcod,O(n log n),,,yes
+java/1025.java,corcod,O(n),,,yes
+java/1026.java,corcod,O(n),,,yes
+java/1027.java,corcod,O(n),,,yes
+java/1028.java,corcod,O(n),,,yes
+java/1029.java,corcod,O(n),,,yes
+java/1030.java,corcod,O(n log n),,,yes
+java/1031.java,corcod,O(n log n),,,yes
+java/1032.java,corcod,O(n log n),,,yes
+java/1033.java,corcod,O(n log n),,,yes
+java/1034.java,corcod,O(n log n),,,yes
+java/1035.java,corcod,O(n^2),,,yes
+java/1036.java,corcod,O(n^2),,,yes
+java/1037.java,corcod,O(n^2),,,yes
+java/1038.java,corcod,O(n^2),,,yes
+java/1100.java,corcod,O(1),,,yes
+java/1101.java,corcod,O(1),,,yes
+java/1102.java,corcod,O(1),,,yes
+java/1103.java,corcod,O(1),,,yes
+java/1104.java,corcod,O(1),,,yes
+java/1105.java,corcod,O(1),,,yes
+java/1106.java,corcod,O(1),,,yes
+java/1107.java,corcod,O(1),,,yes
+java/1108.java,corcod,O(1),,,yes
+java/1109.java,corcod,O(1),,,yes
+java/1110.java,corcod,O(1),,,yes
+java/1111.java,corcod,O(1),,,yes
+java/1112.java,corcod,O(1),,,yes
+java/1113.java,corcod,O(1),,,yes
+java/1114.java,corcod,O(1),,,yes
+java/1115.java,corcod,O(1),,,yes
+java/1116.java,corcod,O(1),,,yes
+java/1117.java,corcod,O(1),,,yes
+java/1118.java,corcod,O(1),,,yes
+java/1119.java,corcod,O(1),,,yes
+java/1120.java,corcod,O(1),,,yes
+java/1121.java,corcod,O(1),,,yes
+java/1122.java,corcod,O(1),,,yes
+java/1123.java,corcod,O(1),,,yes
+java/1124.java,corcod,O(1),,,yes
+java/1125.java,corcod,O(1),,,yes
+java/1126.java,corcod,O(1),,,yes
+java/1127.java,corcod,O(1),,,yes
+java/1128.java,corcod,O(1),,,yes
+java/1129.java,corcod,O(1),,,yes
+java/1130.java,corcod,O(1),,,yes
+java/1131.java,corcod,O(1),,,yes
+java/1132.java,corcod,O(1),,,yes
+java/1133.java,corcod,O(1),,,yes
+java/1134.java,corcod,O(1),,,yes
+java/1135.java,corcod,O(1),,,yes
+java/1136.java,corcod,O(1),,,yes
+java/1137.java,corcod,O(1),,,yes
+java/1138.java,corcod,O(1),,,yes
+java/1139.java,corcod,O(1),,,yes
+java/1140.java,corcod,O(1),,,yes
+java/1141.java,corcod,O(1),,,yes
+java/1142.java,corcod,O(1),,,yes
+java/1143.java,corcod,O(1),,,yes
+java/1144.java,corcod,O(1),,,yes
+java/1145.java,corcod,O(1),,,yes
+java/1146.java,corcod,O(1),,,yes
+java/1147.java,corcod,O(1),,,yes
+java/1148.java,corcod,O(1),,,yes
+java/1149.java,corcod,O(1),,,yes
+java/1150.java,corcod,O(1),,,yes
+java/1151.java,corcod,O(1),,,yes
+java/1152.java,corcod,O(1),,,yes
+java/1153.java,corcod,O(1),,,yes
+java/1154.java,corcod,O(1),,,yes
+java/1155.java,corcod,O(1),,,yes
+java/1156.java,corcod,O(1),,,yes
+java/1157.java,corcod,O(log n),,,yes
+java/1158.java,corcod,O(log n),,,yes
+java/1159.java,corcod,O(log n),,,yes
+java/1160.java,corcod,O(log n),,,yes
+java/1161.java,corcod,O(log n),,,yes
+java/1162.java,corcod,O(log n),,,yes
+java/1164.java,corcod,O(log n),,,yes
+java/1165.java,corcod,O(log n),,,yes
+java/1166.java,corcod,O(log n),,,yes
+java/1167.java,corcod,O(log n),,,yes
+java/1168.java,corcod,O(log n),,,yes
+java/1169.java,corcod,O(log n),,,yes
+java/1170.java,corcod,O(log n),,,yes
+java/1171.java,corcod,O(log n),,,yes
+java/1173.java,corcod,O(1),,,yes
+java/1175.java,corcod,O(1),,,yes
+java/1176.java,corcod,O(1),,,yes
+java/1177.java,corcod,O(1),,,yes
+java/1180.java,corcod,O(1),,,yes
+java/1181.java,corcod,O(1),,,yes
+java/1182.java,corcod,O(1),,,yes
+java/1183.java,corcod,O(1),,,yes
+java/1184.java,corcod,O(1),,,yes
+java/1185.java,corcod,O(1),,,yes
+java/1186.java,corcod,O(1),,,yes
+java/1187.java,corcod,O(1),,,yes
+java/1188.java,corcod,O(1),,,yes
+java/1189.java,corcod,O(1),,,yes
+java/1190.java,corcod,O(1),,,yes
+java/1191.java,corcod,O(1),,,yes
+java/1192.java,corcod,O(1),,,yes
+java/1193.java,corcod,O(1),,,yes
+java/1194.java,corcod,O(1),,,yes
+java/1195.java,corcod,O(1),,,yes
+java/1196.java,corcod,O(1),,,yes
+java/1197.java,corcod,O(1),,,yes
+java/1198.java,corcod,O(1),,,yes
+java/1199.java,corcod,O(1),,,yes
+java/1200.java,corcod,O(1),,,yes
+java/1201.java,corcod,O(1),,,yes
+java/1202.java,corcod,O(1),,,yes
+java/1203.java,corcod,O(1),,,yes
+java/1204.java,corcod,O(1),,,yes
+java/1205.java,corcod,O(1),,,yes
+java/1206.java,corcod,O(1),,,yes
+java/1207.java,corcod,O(1),,,yes
+java/1208.java,corcod,O(1),,,yes
+java/1209.java,corcod,O(1),,,yes
+java/1210.java,corcod,O(1),,,yes
+java/1211.java,corcod,O(1),,,yes
+java/1213.java,corcod,O(1),,,yes
+java/1214.java,corcod,O(1),,,yes
+java/1215.java,corcod,O(1),,,yes
+java/1500.java,corcod,O(log n),,,yes
+java/1501.java,corcod,O(log n),,,yes
+java/1502.java,corcod,O(log n),,,yes
+java/1503.java,corcod,O(log n),,,yes
+java/1504.java,corcod,O(log n),,,yes
+java/1505.java,corcod,O(log n),,,yes
+java/1506.java,corcod,O(log n),,,yes
+java/1507.java,corcod,O(log n),,,yes
+java/1508.java,corcod,O(log n),,,yes
+java/1509.java,corcod,O(log n),,,yes
+java/1510.java,corcod,O(log n),,,yes
+java/1511.java,corcod,O(log n),,,yes
+java/1512.java,corcod,O(log n),,,yes
+java/1513.java,corcod,O(log n),,,yes
+java/1514.java,corcod,O(log n),,,yes
+java/1515.java,corcod,O(log n),,,yes
