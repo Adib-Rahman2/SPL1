@@ -1,0 +1,9 @@
+file,source,complexity,best_complexity,inefficiency,reviewed
+ok.cpp,cpp,O(n),,,yes
+bad.cpp,cpp,O(n),,,maybe
+bad2.cpp,java,O(n),,,yes
+bad3.cpp,cpp,O(n^4),,,yes
+bad4.cpp,cpp,O(n),O(1),,yes
+short.cpp,cpp,O(n)
+"open.cpp,cpp,O(n),,,yes
+missing.cpp,cpp,O(1),,,yes
